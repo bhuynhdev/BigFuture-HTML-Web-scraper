@@ -1,0 +1,33 @@
+Allen University
+Anderson University 4013
+Benedict College
+Bob Jones University
+Charleston Southern University
+Claflin University
+Clemson University
+Coastal Carolina University
+Coker University
+College of Charleston
+Columbia College 2384
+Columbia International University
+Converse College
+Erskine College
+Francis Marion University
+Furman University
+Lander University
+Limestone College
+Medical University of South Carolina
+Morris College
+Newberry College
+North Greenville University
+Presbyterian College
+South Carolina State University
+Southern Wesleyan University
+The Citadel
+University of South Carolina-Columbia
+University of South Carolina-Aiken
+University of South Carolina-Beaufort
+University of South Carolina-Upstate
+Voorhees College
+Winthrop University
+Wofford College
