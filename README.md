@@ -10,7 +10,7 @@ An automated Python web scraper to mass collect college data from CollegeBoard's
 * Output in CSV format and XLSX format for easy data comparision and manipulation.
 * Popular school list and each state's school list are already generated for you
 
-![result XLSX file](./readme_assets/NewYork_xlsx.png)
+![result XLSX file screenshot](./readme_assets/NewYork_xlsx.png)
 
 ## Usage
 A popular school list consisting of top 125 colleges has been generated beforehand, in the `popular_schools.xlsx` file. A comprehensive lists of all universities within each US state is also ready, located in each `states/[state_name]` folder.
@@ -21,7 +21,7 @@ You can also run the scraper script with a custom school list of your choice:
 ```bash
 python3 -m pip install -r requirements.txt
 ```
-2. Make changes to the `custom_names.txt` file by adding the names of your desired schools. (There are some rules about naming that you must follow. See the [Special note on college's naming](#Speicla-note-on-colleges-naming) section below)
+2. Make changes to the `custom_names.txt` file by adding the names of your desired schools. (There are some rules about naming that you must follow. See the [Special note on college's naming](#Special-note-on-colleges-naming) section below)
 3. Run the `scraper.py` file in your terminal/command prompt:
 ```bash
 python3 scraper.py
